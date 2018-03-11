@@ -1,0 +1,8 @@
+prefix=/home/xue/ROS/catkin_ws/install
+
+Name: esr_msgs
+Description: Description of esr_msgs
+Version: 0.0.1
+Cflags: -I/home/xue/ROS/catkin_ws/install/include
+Libs: -L/home/xue/ROS/catkin_ws/install/lib 
+Requires: message_runtime std_msgs

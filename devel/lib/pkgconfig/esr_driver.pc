@@ -1,0 +1,8 @@
+prefix=/home/xue/ROS/catkin_ws/devel
+
+Name: esr_driver
+Description: Description of esr_driver
+Version: 0.0.1
+Cflags: -I/home/xue/ROS/catkin_ws/src/radar/esr_driver/include
+Libs: -L/home/xue/ROS/catkin_ws/devel/lib -lesr_can_to_topic
+Requires: roscpp socketcan_interface message_runtime std_msgs esr_msgs

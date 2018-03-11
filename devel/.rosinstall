@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xue/ROS/catkin_ws/devel/setup.sh

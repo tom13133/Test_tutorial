@@ -1,0 +1,8 @@
+prefix=/home/xue/ROS/catkin_ws/install
+
+Name: learning_pcl
+Description: Description of learning_pcl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xue/ROS/catkin_ws/install/lib 
+Requires: 
